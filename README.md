@@ -65,3 +65,5 @@ If your build fails and you are unsure of why here are some useful strategies fo
 ## License ![CC0 licensed](https://img.shields.io/github/license/r-lib/actions)
 
 All examples in this repository are published with the [CC0](./LICENSE) license.
+
+Hao was here.
